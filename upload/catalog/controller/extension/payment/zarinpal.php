@@ -1,5 +1,5 @@
 <?php
-/* **********************Support And Update By OpenCartCms - https://opencartcms.org ***************************** */
+/* ********************** Support And Update By OpenCartCms - https://opencartcms.org ***************************** */
 require_once(DIR_SYSTEM.'library/nuSoap/nusoap.php');
 
 class ControllerExtensionPaymentZarinpal extends Controller {
